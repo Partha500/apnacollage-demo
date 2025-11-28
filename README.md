@@ -1,4 +1,4 @@
 # apnacollage-demo
 this is my first git repository.
 <br/>
-Author - partha pratim choudhury
+Author - partha pratim choudhury and ying zi
